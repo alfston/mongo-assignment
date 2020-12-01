@@ -1,0 +1,22 @@
+{
+  "name": "mongo-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfston/A5.git"
+  },
+  "author": "Francis Alfston Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfston/A5/issues"
+  },
+  "homepage": "https://github.com/alfston/A5#readme",
+  "dependencies": {
+    "mongoose": "^5.11.0"
+  }
+}
